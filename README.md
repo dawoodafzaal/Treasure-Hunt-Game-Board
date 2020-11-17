@@ -48,6 +48,27 @@ The same spot cannot be chosen again, any (x,y) coordinate chosen which does not
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Functions:
+
+	RandomNum: returns a random number in a range from -15 to 15, must only return non-zero numbers
+	
+	Initialize: initializes the pieces of the game, places the numbers on random indices
+	
+	Display: Displays the board. 
+	
+	Calculate Score: calculates the player's most current score
+	
+	Log Score: creates a game log which stores the player's name, score and time for each playthrough
+	
+	Exit Game: exits the game upon function call
+	
+	Display Top Scores: displays 'n' number of top scores where n is the users input
+	
+	Check Board: loops through the entire board to see if all indices have been used, returns false otherwise
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+
 
 
 
