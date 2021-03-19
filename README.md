@@ -1,6 +1,6 @@
 # Treasure Hunt Game Board
 
-This project was created by myself for a school project.
+This project was created by myself and took inspiration from the classic game "Mine Sweeper".
 
 This game was coded in C. The structure of the game is as followed:
 
